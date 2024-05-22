@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  font-family: sans-serif;
+  border: 1px solid rgba(14, 72, 77, 0.616);
+  margin: auto;
+  margin-top: 6vw;
+  width: 35%;
+  padding: 40px;
+  min-height: 13vw;
+}
+button{
+  background-color: rgba(25, 79, 83, 0.616);
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  font-size: 1.15vw;
+  margin-right: 20px;
+  cursor: pointer;
+}
+input{
+  height: 25px;
+  padding: 5px;
+  width: 70%;
+  /* display: inline-block; */
+  /* margin-left: 15px; */
+  font-size: 1.1vw;
+}
+ul{
+  margin: auto;
+  padding: 0;
+}
+li{
+  color: white;
+  padding: 8px;
+  display: block;
+  list-style: circle;
+  background-color: rgba(25, 79, 83, 0.616);
+  margin: 0;
+  margin-bottom: 10px;
+}
+#viewBooks{
+  width: 95%;
+  /* border: 1px solid red; */
+  margin-top: 20px;
+
+}
